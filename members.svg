@@ -24,18 +24,18 @@
                     height: 50%;
                     width: 50%;
                 }
-            </style>
+            <\style>
             <div class="row">
                 <div class="column">
                     <h4>João Pedro Souza Araújo</h4>
                     <img src="https://avatars.githubusercontent.com/u/50057516?v=4" alt="JP Crazy">
-                </div>
+                <\div>
                 <div class="column">
                     <h4>Ricardo Carvalho Ribeiro</h4>
                     <img src="https://avatars.githubusercontent.com/u/38461586?v=4" alt="Ricardo C. R.">
-                </div>
-            </div>
+                <\div>
+            <\div>
 
-        </div>
-    </foreignObject>
-</svg>
+        <\div>
+    <\foreignObject>
+<\svg>
