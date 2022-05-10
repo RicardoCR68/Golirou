@@ -4,9 +4,8 @@
 
 ### Componentes do Grupo
 
-<div align="center">
-  <img src="members.svg" width="800" height="400">
-</div>
+#### [João Pedro Souza Araújo](https://github.com/aslirou)
+#### [Ricardo Carvalho Ribeiro](https://github.com/RicardoCR68)
 
 ### Objetivos:
 
@@ -16,5 +15,3 @@ Executar um projeto de otimização para um problema cujo paralelismo é conheci
 
 - Linguagem: Go
   - <https://go.dev/>
-
-
