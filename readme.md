@@ -1,5 +1,4 @@
 # GOLIROU 🐹 🤝 🦍
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 ## Projeto Final - Computação Paralela
 
 ### Componentes do Grupo
