@@ -20,7 +20,7 @@ Executar um projeto de otimização para um problema cujo paralelismo é conheci
 
 ### Instruções
 
-1. Verificar se a linguagem está instalada:
+1. **Verificar se a linguagem está instalada:**
 
 Rode o comando a seguir:
 
@@ -33,7 +33,7 @@ O output esperado deve ser semelhante à esse:
 go version go1.18.1 linux/amd64
 ```
 
-2. Rodar o programa com o comando 'go run [nome do arquivo].go'
+2. **Rodar o programa com o comando 'go run [nome do arquivo].go'**
 
 Para esse projeto:
 
