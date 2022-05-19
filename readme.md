@@ -16,7 +16,7 @@ Executar um projeto de otimização para um problema cujo paralelismo é conheci
   - <https://go.dev/>
 - Ambiente de Desenvolvimento:
   - [Fedora 36](https://getfedora.org/pt_BR/)
-  - [WSL2 - Ubuntu 22.04](https://ubuntu.com/wsl)
+  - [WSL2 - Ubuntu 20.04](https://ubuntu.com/wsl)
 
 ### Instruções
 
@@ -40,3 +40,5 @@ Para esse projeto:
 ```
 $ go run main.go
 ```
+
+### Resultados

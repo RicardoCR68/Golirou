@@ -19,7 +19,7 @@ func taylor(i int) float64 {
 func main() {
 	var wg sync.WaitGroup
 	sum := 0.0
-	log.Println("Start")
+	// log.Println("Start")
 	for i := 1; i < 100000000000; i += 1000000000 {
 
 		wg.Add(1)
@@ -34,5 +34,5 @@ func main() {
 	}
 	wg.Wait()
 	log.Println(sum)
-	log.Println("Finish")
+	// log.Println("Finish")
 }
