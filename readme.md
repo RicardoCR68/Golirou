@@ -42,3 +42,16 @@ $ go run main.go
 ```
 
 ### Resultados
+
+#### Resultado Serial para 100 000 000 000:
+- Tempo:2 min 4.512 seg
+- Resultado: **25.90565168**653643(com 10 casas de precisão)
+
+#### Resultado Paralelo para 100 000 000 000:
+- Tempo: 21.213 seg
+- Resultado: **25.905651687841**704(com 14 casas de precisão)
+
+
+#### Resultado Paralelo para 1 000 000 000 000:
+- Tempo: 3 min 31.125 seg
+- Resultado: (com 13 casas de precisão)
