@@ -38,7 +38,7 @@ go version go1.18.1 linux/amd64
 Para esse projeto:
 
 ```
-$ go run main.go
+$ go run parallel.go
 ```
 
 ### Resultados
@@ -55,3 +55,7 @@ $ go run main.go
 #### Resultado Paralelo para 1 000 000 000 000:
 - Tempo: 3 min 31.125 seg
 - Resultado: (com 13 casas de precisão)
+
+#### Resultado Paralelo para 100 000 000 000 000
+- Tempo: 361 min 18.262 seg
+- Resultado: 32.81336897130239
