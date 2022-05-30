@@ -8,7 +8,7 @@ import (
 func taylor(i int) float64 {
 
 	sum := 0.0
-	for x := i; x < 100000000000+i; x++ {
+	for x := i; x < 1000000000+i; x++ {
 
 		sum += 1 / float64(x)
 	}
@@ -20,7 +20,7 @@ func main() {
 	var wg sync.WaitGroup
 	sum := 0.0
 	// log.Println("Start")
-	for i := 1; i < 1000000000000; i += 100000000000 {
+	for i := 1; i < 100000000000000; i += 1000000000 {
 
 		wg.Add(1)
 		i := i

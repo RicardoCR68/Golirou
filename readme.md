@@ -43,19 +43,22 @@ $ go run parallel.go
 
 ### Resultados
 
-#### Resultado Serial para 100 000 000 000:
+#### Resultado Serial para 100 000 000 000 (10^11):
 - Tempo:2 min 4.512 seg
-- Resultado: **25.90565168**653643(com 10 casas de precisão)
+- Resultado: **25.90565168**653643 (com 08 casas decimais de precisão)
 
-#### Resultado Paralelo para 100 000 000 000:
+#### Resultado Paralelo para 100 000 000 000 (10^11):
 - Tempo: 21.213 seg
-- Resultado: **25.905651687841**704(com 14 casas de precisão)
+- Resultado: **25.905651687841**704 (com 12 casas decimais de precisão)
 
+#### Resultado Paralelo para 1 000 000 000 000 (10^12):
+- Tempo: 3 min 35.421 seg
+- Resultado: **28.20823678083**1157 (com 11 casas decimais de precisão)
 
-#### Resultado Paralelo para 1 000 000 000 000:
-- Tempo: 3 min 31.125 seg
-- Resultado: (com 13 casas de precisão)
+#### Resultado Paralelo para 10 000 000 000 000 (10^13):
+- Tempo: 35 min 53.346 seg
+- Resultado: **30.510821873824**76 (com 12 casas decimais de precisão)
 
-#### Resultado Paralelo para 100 000 000 000 000
-- Tempo: 361 min 18.262 seg
-- Resultado: 32.81336897130239
+#### Resultado Paralelo para 100 000 000 000 000 (10^14):
+- Tempo: 358 min 50.996 seg
+- Resultado: **32.81340696681**9706 (com 11 casas decimais de precisão)
